@@ -1,0 +1,38 @@
+1.0 São João da Varjota
+email esussaojoaodavarjota@gmail.com
+senha esus@sjv
+senha do e-mail no esus: uyrs tsvl smbb xzcu
+
+1.1 Monsenhor Hipólito
+email esusmonsenhorhipolito@gmail.com
+senha esus@msh
+senha do e-mail no esus: przv vsmu xwdl zptc / fnsh vcic tlsf mubl
+esus.monsenhorhipolito.pi.gov.br
+IP: 45.164.58.53
+roteador: admin / Mrnet34#@
+
+2. TI Cajueiro da Praia
+email ti.cajueirodapraia@gmail.com
+senha smscp2008
+
+3. e-SUS Cajueiro da Praia
+email esuscajueirodapraia@gmail.com
+senha: cajueiro220208
+
+4. e-SUS Ilha Grande
+email: esusilhagrande@gmail.com
+senha: smsig220465
+
+5. e-SUS Luis Correia
+email: esusluiscorreia@gmail.com
+senha: smslc0570
+
+senha hostinger: smsLC@0570
+
+senha root: eSUSlc@220570
+host: srv822166.hstgr.cloud
+
+senha suporte: esuslc
+
+
+java -jar "/opt/e-SUS/tmp/database/migrador.jar" -url="jdbc:postgresql://localhost:5433/esus" -username="postgres" -password="esus" 
